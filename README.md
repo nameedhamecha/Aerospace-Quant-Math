@@ -12,7 +12,13 @@ Markets are multi-body dynamical systems. Stocks exhibit inertia, volatility is 
 - Monte Carlo simulations for option pricing under stochastic volatility
 
 **Repositories / Projects to be added:**
-1. [Coming Soon] Monte Carlo Option Pricer (Python)
-2. [Coming Soon] NIFTY 50 Statistical Arbitrage Backtester
+1. ## Completed Projects
+
+### 1. WorldQuant BRAIN Alpha #1 (LIVE)
+- **Status:** Submitted & Accepted (Bronze Level)
+- **Rank:** 29,578 globally
+- **Details:** [Click here for full breakdown](WorldQuant-BRAIN-Alphas/Alpha_1_Details.md)
+2. [Coming Soon] Monte Carlo Option Pricer (Python)
+3. [Coming Soon] NIFTY 50 Statistical Arbitrage Backtester
 
 *Last Updated: July 2026*# Aerospace-Quant-Math
