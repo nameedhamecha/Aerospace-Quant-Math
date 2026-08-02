@@ -14,10 +14,21 @@ Markets are multi-body dynamical systems. Stocks exhibit inertia, volatility is 
 **Repositories / Projects to be added:**
 1. ## Completed Projects
 
-### 1. WorldQuant BRAIN Alpha #1 (LIVE)
-- **Status:** Submitted & Accepted (Bronze Level)
-- **Rank:** 29,578 globally
-- **Details:** [Click here for full breakdown](WorldQuant-BRAIN-Alphas/Alpha_1_Details.md)
+### 1. ## Completed Projects
+
+### 🎯 Alpha #1 - Mean Reversion Strategy (LIVE on WorldQuant BRAIN)
+
+- **Status:** ✅ Submitted & Accepted (Bronze Level)
+- **Global Rank:** 29,578
+- **Score:** 1,935
+- **Universe:** USA/D1/TOP3000
+- **Date Submitted:** August 2, 2026
+- **Strategy Type:** Mean Reversion
+
+**📄 Full Details:** [Alpha-001-MeanReversion](WorldQuant-Alphas/Alpha-001-MeanReversion/Alpha_1_Details.md)
+
+**📸 Screenshot:** [View BRAIN Dashboard](WorldQuant-Alphas/Alpha-001-MeanReversion/Screenshot2026-08-02214416.png]
+)
 2. [Coming Soon] Monte Carlo Option Pricer (Python)
 3. [Coming Soon] NIFTY 50 Statistical Arbitrage Backtester
 
